@@ -47,7 +47,7 @@ When starting application, it load all data available for the prediction, and co
 
 Later on, if a user decides to change the pamaeters of the prediction, it should select Start and End dates and push the button, as is is shown below.
 
-![Selection of training period](figures/train_Period.JPG)
+![Selection of training period](figures/train_period.JPG)
 
 ### Visualisation of the model characteristics
 
